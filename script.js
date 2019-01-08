@@ -1,1 +1,3 @@
-addEventListener("DOMContentLoaded",funcction)
+addEventListener("DOMContentLoaded",function() {
+  
+}
