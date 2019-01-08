@@ -1,1 +1,1 @@
-addEventListener
+addEventListener("DOMContentLoaded",funcction)
