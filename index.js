@@ -4,4 +4,4 @@ document.addEventListener("DOMContentLoaded", function() {
   let hidden_div= document.querySelector("#hidden-div");
   hidden_div.innerText= 301
   }
-}
+)
