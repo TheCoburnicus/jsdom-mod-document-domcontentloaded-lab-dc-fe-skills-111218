@@ -4,6 +4,10 @@ document.addEventListener("DOMContentLoaded", function() {
   let hidden-div;
   switch (style) {
     case 301:
-      
+      hidden-div = true;
+      console.log('case 301: ', hidden-div)
+    default:
+      hidden-div = false;
+      console.log('default: ', hidden-div)
   }
 })
