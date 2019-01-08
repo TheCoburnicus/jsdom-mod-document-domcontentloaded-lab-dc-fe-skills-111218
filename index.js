@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
   document.querySelector("body")
   let hidden-div;
   switch (style) {
-    case 301;
+    case 301:
+      
   }
 })
