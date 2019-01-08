@@ -1,7 +1,7 @@
 /* code goes here */
 document.addEventListener("DOMContentLoaded", function() {
   document.querySelector("body")
-  if (style) {
+  if (style != 301) {
     
   }
 })
